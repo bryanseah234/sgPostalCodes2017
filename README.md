@@ -1,5 +1,9 @@
 # Singapore Postal Codes
 
+<p align="left">
+  <img src="https://docs.onemap.sg/maps/images/new-onemap-logo_150x150.png" />
+</p>
+
 This is a dump of all Singapore postal codes retrieved from Onemap.sg.\
 The Python code used and the data dump are attached.
 
