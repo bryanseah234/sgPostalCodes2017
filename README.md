@@ -8,9 +8,6 @@ Note: Use of the data is governed by the [Open Data Licence](https://www.onemap.
   <img src="https://docs.onemap.sg/maps/images/new-onemap-logo_150x150.png" />
 </p>
 
-This is a dump of all Singapore postal codes retrieved from Onemap.sg.\
-The Python code used and the data dump are attached.
-
 ## Demo:
 https://www.google.com/maps/d/edit?mid=1xY0bu-Aomm-KcEXD58PxdvegZhY5Tcfv&usp=sharing
 https://www.google.com/maps/d/edit?mid=19yBcM2JMVOwTZj8svFY2km1j2CXeL95y&usp=sharing
