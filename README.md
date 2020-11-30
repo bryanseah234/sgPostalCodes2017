@@ -1,17 +1,19 @@
 # Singapore Postal Codes
-Note: Use of the data is governed by the [Open Data Licence](https://www.onemap.sg/legal/opendatalicence.html)
-- This data dump contains information from Onemap.sg postal code search accessed on 25 Apr 2017, or later
- if the date is specified in the commit message.
-- This data dump contains information from MyTransport.sg static data, accessed 1 Dec 2017.
-
+code to list out / map out all Singapore postal codes.
 <p align="left">
   <img src="https://docs.onemap.sg/maps/images/new-onemap-logo_150x150.png" />
 </p>
 
-## Demo: (on map)
+## Disclaimer:
+1. USE AT OWN DISCRETION
+2. FOR EDUCATIONAL PURPOSES ONLY
+3. USE OF THE DATA IS GOVERNED BY THE [OPEN DATA LICENCE](HTTPS://WWW.ONEMAP.SG/LEGAL/OPENDATALICENCE.HTML)
+4. THIS DATA DUMP CONTAINS INFORMATION FROM ONEMAP.SG POSTAL CODE SEARCH ACCESSED ON 25 APR 2017, AND LATER
+
+## Demo: 
+1. (on map) \
 https://www.google.com/maps/d/edit?mid=1xY0bu-Aomm-KcEXD58PxdvegZhY5Tcfv&usp=sharing
 https://www.google.com/maps/d/edit?mid=19yBcM2JMVOwTZj8svFY2km1j2CXeL95y&usp=sharing
 https://www.google.com/maps/d/edit?mid=1JWzJu_GFFe28B7UiSLuf52WqZ-7BhlYr&usp=sharing
-
-## Demo: (listed out)
+2. (listed out) \
 https://sg-postalcodes2017.glitch.me/
