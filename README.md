@@ -17,3 +17,12 @@ https://www.google.com/maps/d/edit?mid=19yBcM2JMVOwTZj8svFY2km1j2CXeL95y&usp=sha
 https://www.google.com/maps/d/edit?mid=1JWzJu_GFFe28B7UiSLuf52WqZ-7BhlYr&usp=sharing
 2. (listed out) \
 https://sg-postalcodes2017.glitch.me/
+
+
+## Setup
+
+Install the dependencies for the detected stack and run the existing entry point from the repository source tree.
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
