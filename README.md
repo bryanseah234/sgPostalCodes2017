@@ -1,4 +1,8 @@
 # Singapore Postal Codes
+
+
+![Project screenshot](./screenshot.png)
+
 code to list out / map out all Singapore postal codes.
 <p align="left">
   <img src="https://docs.onemap.sg/maps/images/new-onemap-logo_150x150.png" />
